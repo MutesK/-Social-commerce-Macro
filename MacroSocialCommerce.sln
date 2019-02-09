@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MacroSocialCommerce", "MacroSocialCommerce\MacroSocialCommerce.pyproj", "{59112B0E-094B-4D3D-92A4-756BDFC7EC3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59112B0E-094B-4D3D-92A4-756BDFC7EC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59112B0E-094B-4D3D-92A4-756BDFC7EC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D39F88-6208-4178-9A74-7BDB2E0F5DE9}
+	EndGlobalSection
+EndGlobal
